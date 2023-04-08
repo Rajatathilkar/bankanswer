@@ -13,3 +13,48 @@ plotly
 pandas
 joblib
 scikit-learn
+# Mandatory:
+atomicwrites >=1.2.0          :  1.4.0 (OK)
+chardet >=2.0.0               :  4.0.0 (OK)
+cloudpickle >=0.5.0           :  2.0.0 (OK)
+cookiecutter >=1.6.0          :  1.7.3 (OK)
+diff_match_patch >=20181111   :  20200713 (OK)
+intervaltree                  :  None (OK)
+IPython >=7.6.0;<8.0.0        :  7.31.1 (OK)
+jedi >=0.17.2;<0.19.0         :  0.18.1 (OK)
+jellyfish >=0.7               :  0.9.0 (OK)
+jsonschema >=3.2.0            :  4.4.0 (OK)
+keyring >=17.0.0              :  23.5.0 (OK)
+nbconvert >=4.0               :  6.4.0 (OK)
+numpydoc >=0.6.0              :  1.1.0 (OK)
+paramiko >=2.4.0              :  2.9.2 (OK)
+parso >=0.7.0;<0.9.0          :  0.8.3 (OK)
+pexpect >=4.4.0               :  4.8.0 (OK)
+pickleshare >=0.4             :  0.7.5 (OK)
+psutil >=5.3                  :  5.9.0 (OK)
+pygments >=2.0                :  2.11.2 (OK)
+pylint >=2.5.0                :  2.12.2 (OK)
+pyls_spyder >=0.4.0           :  0.4.0 (OK)
+pylsp >=1.3.2;<1.4.0          :  1.3.3 (OK)
+pylsp_black >=1.0.0           :  1.0.1 (OK)
+qdarkstyle =3.0.2             :  3.0.2 (OK)
+qstylizer >=0.1.10            :  0.2.1 (OK)
+qtawesome >=1.0.2             :  1.1.1 (OK)
+qtconsole >=5.2.1;<5.3.0      :  5.2.2 (OK)
+qtpy >=1.5.0                  :  2.0.0 (OK)
+rtree >=0.9.7              
+setuptools >=49.6.0           
+sphinx >=0.6.6                
+spyder_kernels >=2.2.1;<2.3.0
+textdistance >=4.2.0          
+three_merge >=0.1.1           
+watchdog                    
+zmq >=17                    
+
+# Optional:
+cython >=0.21               
+matplotlib >=2.0.0          
+numpy >=1.7                 
+pandas >=1.1.1              
+scipy >=0.17.0              
+sympy >=0.7.3             
