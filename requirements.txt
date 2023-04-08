@@ -6,55 +6,5 @@ pandas
 streamlit
 opencv-python-headless
 numpy
-streamlit
-seaborn
-matplotlib
-plotly
-pandas
-joblib
-scikit-learn
-# Mandatory:
-atomicwrites 
-chardet 
-cloudpickle 
-cookiecutter 
-diff_match_patch 
-intervaltree         
-IPython K
-jedi 
-jellyfish
-jsonschema 
-keyring 
-nbconvert 
-numpydoc
-paramiko 
-parso 
-pexpect 
-pickleshare
-psutil 
-pygments 
-pylint
-pyls_spyder 
-pylsp)
-pylsp_black
-qdarkstyle
-qstylizer 
-qtawesome
-qtconsole 
-qtpy 
-rtree           
-setuptools        
-sphinx       
-spyder_kernels 
-textdistance       
-three_merge      
-watchdog                    
-zmq               
 
-# Optional:
-cython              
-matplotlib     
-numpy        
-pandas        
-scipy          
-sympy        
+     
