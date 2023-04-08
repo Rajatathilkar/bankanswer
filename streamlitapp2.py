@@ -4,6 +4,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.svm import SVC
 import pandas as pd
 import numpy as np
+import fsspec 
+
+
 
 # Load the preprocessed data
 df=pd.read_csv("C://asktaloes_datset//BankFAQs.csv")
